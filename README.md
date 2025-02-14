@@ -18,9 +18,6 @@ During development, tech lead supervised the project, with weekly sprints and re
 
 The application is fully responsive.
 
-## Find at
-http://foxhub.gfapp.eu/
-
 ## Platform Overview:
 FoxHub provides a range of features and functionalities tailored to different user roles, including admins, users, and visitors. Let's explore each role in detail!
 
